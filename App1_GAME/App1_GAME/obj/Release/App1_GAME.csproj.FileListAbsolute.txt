@@ -1,0 +1,9 @@
+D:\Work\test_code\App1_GAME\App1_GAME\bin\Release\App1_GAME.exe.config
+D:\Work\test_code\App1_GAME\App1_GAME\bin\Release\App1_GAME.exe
+D:\Work\test_code\App1_GAME\App1_GAME\bin\Release\App1_GAME.pdb
+D:\Work\test_code\App1_GAME\App1_GAME\obj\Release\App1_GAME.Form1.resources
+D:\Work\test_code\App1_GAME\App1_GAME\obj\Release\App1_GAME.Properties.Resources.resources
+D:\Work\test_code\App1_GAME\App1_GAME\obj\Release\App1_GAME.csproj.GenerateResource.Cache
+D:\Work\test_code\App1_GAME\App1_GAME\obj\Release\App1_GAME.exe
+D:\Work\test_code\App1_GAME\App1_GAME\obj\Release\App1_GAME.pdb
+D:\Work\test_code\App1_GAME\App1_GAME\obj\Release\App1_GAME.csprojResolveAssemblyReference.cache
